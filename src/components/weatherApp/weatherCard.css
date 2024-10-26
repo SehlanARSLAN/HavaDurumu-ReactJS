@@ -1,0 +1,14 @@
+.weatherCard {
+    background-color: #f0f8ff;
+    border: 1px solid #87cefa;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    width: 120px;
+    margin: 10px;
+  }
+  .weatherCard.active {
+    background-color: #ffebcd;
+    border: 2px solid #ffa07a;
+  }
+  
